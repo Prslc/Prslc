@@ -1,38 +1,45 @@
-<!-- Thank them 
+<!-- References:
 [1] https://github.com/anuraghazra/github-readme-stats
 [2] https://github.com/DenverCoder1/readme-typing-svg
 [3] https://github.com/Ashutosh00710/github-readme-activity-graph
-[4] https://www.peterjxl.com/Git/GitHub-Profile-Beautify/#%E5%A6%82%E4%BD%95%E5%AE%9A%E5%88%B6
+[4] https://www.peterjxl.com/Git/GitHub-Profile-Beautify
 [5] https://github.com/justjavac/github-dark-light-theme
 [6] https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to
 [7] https://count.getloli.com
---> 
+-->
 
 <div align="center">
   <table>
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=default&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="400">
-  </picture>
-    </td>
+          <source media="(prefers-color-scheme: dark)"
+                  srcset="https://github-readme-stats-beta-one-35.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
+          <source media="(prefers-color-scheme: light)"
+                  srcset="https://github-readme-stats-beta-one-35.vercel.app/api?username=prslc&show_icons=true&theme=default&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
+          <img alt="GitHub Stats"
+               src="https://github-readme-stats-beta-one-35.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
+               width="400">
+        </picture>
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true">
-          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true" width="400">
+          <source media="(prefers-color-scheme: dark)"
+                  srcset="https://github-readme-stats-beta-one-35.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true">
+          <source media="(prefers-color-scheme: light)"
+                  srcset="https://github-readme-stats-beta-one-35.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true">
+          <img alt="Top Languages"
+               src="https://github-readme-stats-beta-one-35.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true"
+               width="400">
         </picture>
       </td>
     </tr>
   </table>
 
-<picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
-</picture>
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
+  </picture>
 
 ## Using language
 
