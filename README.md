@@ -26,11 +26,11 @@
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=0">
           <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=0">
           <img alt="Top Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=0"
             width="400">
         </picture>
       </td>
