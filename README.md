@@ -21,9 +21,9 @@
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true">
-          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true" width="400">
+          <source media="(prefers-color-scheme: dark)"srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true&hide=html,css,javascript">
+          <source media="(prefers-color-scheme: light)"srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript">
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript" width="400">
         </picture>
       </td>
     </tr>
