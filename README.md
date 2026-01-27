@@ -15,22 +15,22 @@
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
+            srcset="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true">
           <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=default&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
+            srcset="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true">
           <img alt="GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
+            src="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true"
             width="400">
         </picture>
       </td>
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800">
+            srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800">
           <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800">
+            srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800">
           <img alt="Top Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800"
+            src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true&hide=html,css,javascript&cache_seconds=1800"
             width="400">
         </picture>
       </td>
