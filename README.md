@@ -1,47 +1,27 @@
 <!-- References
-[1] GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
-[2] Readme Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
-[3] GitHub Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
-[4] GitHub Profile Beautify: https://www.peterjxl.com/Git/GitHub-Profile-Beautify/#how-to-customize
-[5] GitHub Dark/Light Theme: https://github.com/justjavac/github-dark-light-theme
-[6] GitHub Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to
-[7] GitHub Visitor Counter: https://count.getloli.com
+[1] GitHub Profile Card: https://github.com/shiinasaku/Github-Card
+[2] GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+[3] Readme Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
+[4] GitHub Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
+[5] GitHub Profile Beautify: https://www.peterjxl.com/Git/GitHub-Profile-Beautify/#how-to-customize
+[6] GitHub Dark/Light Theme: https://github.com/justjavac/github-dark-light-theme
+[7] GitHub Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to
+[8] GitHub Visitor Counter: https://count.getloli.com
 -->
 
 <div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-          <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-          <img alt="GitHub Stats"
-            src="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
-            width="400">
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript,scss,typescript">
-          <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true&hide=html,css,javascript,scss,typescript">
-          <img alt="Top Languages"
-            src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true&hide=html,css,javascript,scss,typescript"
-            width="400">
-        </picture>
-      </td>
-    </tr>
-  </table>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://card.shiina.xyz/card/Prslc?theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://card.shiina.xyz/card/Prslc?&hide_border=true">
+    <img alt="GitHub Stats"
+      src="ttps://card.shiina.xyz/card/Prslc?&hide_border=tru" width="600">
+  </picture>
   <br>
 
 <picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prslc&theme=github-compact&hide_border=true&bg_color=transparent" width="600">
 </picture>
 
 ## Using language
