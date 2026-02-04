@@ -7,48 +7,52 @@
 [6] GitHub Dark/Light Theme: https://github.com/justjavac/github-dark-light-theme
 [7] GitHub Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to
 [8] GitHub Visitor Counter: https://count.getloli.com
+[9] Skill Icons: https://github.com/tandpfun/skill-icons
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://card.shiina.xyz/card/Prslc?theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://card.shiina.xyz/card/Prslc?&hide_border=true">
-    <img alt="GitHub Stats"
-      src="ttps://card.shiina.xyz/card/Prslc?&hide_border=tru" width="600">
-  </picture>
-  <br>
 
-<picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prslc&theme=github-compact&hide_border=true&bg_color=transparent" width="600">
-</picture>
+# 👋 Hi, I'm Prslc
 
-## Using language
-
-<picture><img height="26" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white" alt="C"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=white" alt="CSS"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/></picture>
-
-## Learning languages
-
-<picture><img height="26" src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/Kotlin-7F3FBF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/></picture>
-
-## My Devices
-
-<picture><img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=android" alt="REDMI K40S"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/Lenovo%20Xiaoxin%20Air%2014-blue?style=flat-square&logo=lenovo" alt="Lenovo Xiaoxin Air 14"/></picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Continuous+Learner" alt="Typing SVG" />
 
 <br>
 
 <picture>
-  <img src="https://count.getloli.com/@github-Prslc?name=github-Prslc&theme=rule34&darkmode=0" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/Prslc?theme=github_dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://card.shiina.xyz/card/Prslc?&hide_border=true">
+  <img src="https://card.shiina.xyz/card/Prslc?&hide_border=true" width="600">
 </picture>
+
+<br>
+
+## 🛠️ Technical Stack
+
+### Languages & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,bash,rust,js,html,css" />
+  </a>
+</p>
+
+### Currently Learning
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,ts,go,kotlin" />
+  </a>
+</p>
+
+## 💻 Hardware & Gear
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile-REDMI%20K40S-E61919?style=flat-square&logo=android&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Laptop-Lenovo%20Xiaoxin%20Air%2014-004482?style=flat-square&logo=lenovo&logoColor=white" />
+</p>
+
+## ✨ Total Visits
+<p align="center">
+  <img src="https://count.getloli.com/@github-Prslc?name=github-Prslc&theme=rule34&darkmode=0" />
+</p>
+
+</div>
