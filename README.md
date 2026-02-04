@@ -16,12 +16,12 @@
     <source media="(prefers-color-scheme: light)"
       srcset="https://card.shiina.xyz/card/Prslc?&hide_border=true">
     <img alt="GitHub Stats"
-      src="ttps://card.shiina.xyz/card/Prslc?&hide_border=tru" width="600">
+      src="ttps://card.shiina.xyz/card/Prslc?&hide_border=tru" width="700">
   </picture>
   <br>
 
 <picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prslc&theme=github-compact&hide_border=true&bg_color=transparent" width="600">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prslc&theme=github-compact&hide_border=true&bg_color=transparent" width="700">
 </picture>
 
 ## Using language
