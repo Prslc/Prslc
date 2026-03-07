@@ -19,7 +19,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/Prslc?theme=tokyonight&hide_border=true&affiliations=owner">
+  <source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/Prslc?theme=github_dark&hide_border=true&affiliations=owner">
   <source media="(prefers-color-scheme: light)" srcset="https://card.shiina.xyz/card/Prslc?&hide_border=true&affiliations=owner">
   <img src="https://card.shiina.xyz/card/Prslc?&hide_border=true" width="600">
 </picture>
