@@ -12,47 +12,62 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Prslc
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Continuous+Learner" alt="Typing SVG" />
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://card.shiina.xyz/card/Prslc?theme=github_dark&bg_color=0c1016&hide_border=true&affiliations=owner">
-  <source media="(prefers-color-scheme: light)" srcset="https://card.shiina.xyz/card/Prslc?&hide_border=true&affiliations=owner">
-  <img src="https://card.shiina.xyz/card/Prslc?&hide_border=true" width="600">
-</picture>
-
-<br>
-
-## 🛠️ Technical Stack
-
-### Languages & Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,bash,rust,js,html,css" />
-  </a>
-</p>
-
-### Currently Learning
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,ts,go,kotlin" />
-  </a>
-</p>
-
-## 💻 Hardware & Gear
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mobile-REDMI%20K40S-E61919?style=flat-square&logo=android&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Laptop-Lenovo%20Xiaoxin%20Air%2014-004482?style=flat-square&logo=lenovo&logoColor=white" />
-</p>
-
-## ✨ Total Visits
-<p align="center">
-  <img src="https://count.getloli.com/@github-Prslc?name=github-Prslc&theme=rule34&darkmode=0" />
-</p>
+  <h1>👋 Hi, I'm Prslc</h1>
+  <br>
+    <table>
+      <tr>
+        <td>
+          <picture>
+            <source media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+            <source media="(prefers-color-scheme: light)"
+              srcset="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+            <img alt="GitHub Stats"
+              src="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+              width="400">
+          </picture>
+        </td>
+        <td>
+          <picture>
+            <source media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript,scss,typescript">
+            <source media="(prefers-color-scheme: light)"
+              srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true&hide=html,css,javascript,scss,typescript">
+            <img alt="Top Languages"
+              src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true&hide=html,css,javascript,scss,typescript"
+              width="400">
+          </picture>
+        </td>
+      </tr>
+    </table>
+  
+  ## 🛠️ Technical Stack
+  
+  ### Languages & Tools
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,py,bash,rust,js,html,css" />
+    </a>
+  </p>
+  
+  ### Currently Learning
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,java,ts,go,kotlin" />
+    </a>
+  </p>
+  
+  ## 💻 Hardware & Gear
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Mobile-REDMI%20K40S-E61919?style=flat-square&logo=android&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Laptop-Lenovo%20Xiaoxin%20Air%2014-004482?style=flat-square&logo=lenovo&logoColor=white" />
+  </p>
+  
+  ## ✨ Total Visits
+  <p align="center">
+    <img src="https://count.getloli.com/@github-Prslc?name=github-Prslc&theme=rule34&darkmode=0" />
+  </p>
 
 </div>
