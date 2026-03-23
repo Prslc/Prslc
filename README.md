@@ -13,7 +13,6 @@
 <div align="center">
 
   <h1>👋 Hi, I'm Prslc</h1>
-  <br>
     <table>
       <tr>
         <td>
