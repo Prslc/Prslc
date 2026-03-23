@@ -29,11 +29,11 @@
         <td>
           <picture>
             <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript,scss,typescript">
+              srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&hide_border=true">
             <source media="(prefers-color-scheme: light)"
-              srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true&hide=html,css,javascript,scss,typescript">
+              srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true">
             <img alt="Top Languages"
-              src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true&hide=html,css,javascript,scss,typescript"
+              src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true"
               width="400">
           </picture>
         </td>
