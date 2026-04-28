@@ -43,14 +43,14 @@
   ### Languages & Tools
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,py,bash,rust,js,html,css" />
+      <img src="https://skillicons.dev/icons?i=c,py,bash,rust,kotlin" />
     </a>
   </p>
   
   ### Currently Learning
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,java,ts,go,kotlin" />
+      <img src="https://skillicons.dev/icons?i=cpp,java,ts,go"/>
     </a>
   </p>
   
