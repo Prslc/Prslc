@@ -57,7 +57,7 @@
   
   ## ✨ Total Visits
   <p align="center">
-    <img src="https://count.getloli.com/@github-Prslc?name=github-Prslc&theme=rule34&darkmode=0" />
+    <img src="https://count.getloli.com/@github-Prslc?name=github-Prslc&theme=moebooru&darkmode=0" />
   </p>
 
 </div>
