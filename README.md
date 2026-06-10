@@ -16,22 +16,22 @@
         <td>
           <picture>
             <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true">
+              srcset="https://github-readme-stats-nu-six-29.vercel.app/api?username=Prslc&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true">
             <source media="(prefers-color-scheme: light)"
-              srcset="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&include_all_commits=true&hide_border=true">
+              srcset="https://github-readme-stats-nu-six-29.vercel.app/api?username=Prslc&show_icons=true&include_all_commits=true&hide_border=true">
             <img alt="GitHub Stats"
-              src="https://github-readme-stats-one-bice.vercel.app/api?username=prslc&show_icons=true&include_all_commits=true&hide_border=true
+              src="https://github-readme-stats-nu-six-29.vercel.app/api?username=Prslc&show_icons=true&include_all_commits=true&hide_border=true
               width="400">
           </picture>
         </td>
         <td>
           <picture>
             <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&hide_border=true">
+              srcset="https://github-readme-stats-nu-six-29.vercel.app/api/top-langs/?username=Prslc&layout=compact&theme=tokyonight&hide_border=true">
             <source media="(prefers-color-scheme: light)"
-              srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true">
+              srcset="https://github-readme-stats-nu-six-29.vercel.app/api/top-langs/?username=Prslc&layout=compact&hide_border=true">
             <img alt="Top Languages"
-              src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prslc&layout=compact&hide_border=true"
+              src="https://github-readme-stats-nu-six-29.vercel.app/api/top-langs/?username=Prslc&layout=compact&hide_border=true"
               width="400">
           </picture>
         </td>
